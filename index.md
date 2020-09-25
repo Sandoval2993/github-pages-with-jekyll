@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenidos a mi segundo blog!
 
-I'm glad you are here. I plan to talk about ...
+En este blog mostraré mis conocimientos para crear una página con jekyll.
